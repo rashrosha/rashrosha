@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rasha
-- 👀 I’m interested in machine learning 
+- 👀 I’m interested in machine learning, deep learning, reinforcement learning 
 - 🌱 I’m currently learning as machine learning engineer
 - 💞️ I’m looking to collaborate on create and train models
 - 📫 How to reach me by my email rashaalbizreh@gmail.com 
